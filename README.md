@@ -9,7 +9,8 @@
 
 ## 作業1
 
-題目：請在colab中畫一個函數圖形
+題目：請在colab中畫一個函數圖形  
+連結：[HW0218](https://colab.research.google.com/drive/1GNufXxE6datiQG8c7cXO94wCRrzE9Gnc?usp=sharing)  
 成果：
 - 花朵曲線
   ![圖片](img/flower.png)
@@ -18,3 +19,23 @@
 - 蝸牛曲線
   ![圖片](img/snail.png)
 
+---
+
+## 作業2
+
+題目：打造自己的DNN(全連結)手寫辨識  
+連結：[HW0225](https://colab.research.google.com/drive/1bmygobc7ZrTe5mzy_PFHe3wGTAN68CVH?usp=sharing)  
+成果：
+- 正確率最高參數
+  - 各層神經元數量
+    ![圖片](img/neuron.png)
+  - 模型架構參數
+    ![圖片](img/model.png)
+  - 優化器參數
+    ![圖片](img/booster.png)
+  - 訓練參數
+    ![圖片](img/train.png)
+- 最高正確率
+  ![圖片](img/accuracy.png)
+- Gradio 測驗結果
+  ![圖片](img/gradio.png)
