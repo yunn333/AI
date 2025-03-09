@@ -27,13 +27,13 @@
 連結：[HW0225](https://colab.research.google.com/drive/1bmygobc7ZrTe5mzy_PFHe3wGTAN68CVH?usp=sharing)  
 成果：
 - 正確率最高參數
-  - 各層神經元數量
+  - 各層神經元數量  
     ![圖片](img/neuron.png)
-  - 模型架構參數
+  - 模型架構參數  
     ![圖片](img/model.png)
-  - 優化器參數
+  - 優化器參數  
     ![圖片](img/booster.png)
-  - 訓練參數
+  - 訓練參數  
     ![圖片](img/train.png)
 - 最高正確率
   ![圖片](img/accuracy.png)
