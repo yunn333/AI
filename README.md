@@ -39,3 +39,9 @@
   ![圖片](img/accuracy.png)
 - Gradio 測驗結果
   ![圖片](img/gradio.png)
+
+##作業5
+
+題目：用OpenAI API打造自己的對話機器人
+連結：[HW0325](https://colab.research.google.com/drive/1d9yakVUE3dZqUHa8i-Kt3eF7t1sf183_?usp=sharing)
+成果：![圖片](img/response.png)
