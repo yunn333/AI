@@ -56,6 +56,6 @@
 - 機器人人設
   ！[圖片]（img/
 - 對話結果
-![圖片](img/response1.png)
+  ![圖片](img/response1.png)
 
 
