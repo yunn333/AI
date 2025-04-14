@@ -43,14 +43,19 @@
 ## 作業5
 
 題目：用OpenAI API打造自己的對話機器人  
+
 連結：[HW0325](https://colab.research.google.com/drive/1d9yakVUE3dZqUHa8i-Kt3eF7t1sf183_?usp=sharing)  
 成果：![圖片](img/response.png)
 
 
-## 作業5
+## 作業6
 
-題目：用OpenAI API打造自己的對話機器人  
-連結：[HW0325](https://colab.research.google.com/drive/1d9yakVUE3dZqUHa8i-Kt3eF7t1sf183_?usp=sharing)  
-成果：![圖片](img/response1.pdf)
+題目：打造自己的對話機器人-進階版。
+連結：[HW0401](https://colab.research.google.com/drive/1dDpiweKDvrgliu8LaUYYXhxgGLaUMzoB?usp=sharing)  
+成果：
+- 機器人人設
+  ！[圖片]（img/
+- 對話結果
+![圖片](img/response1.png)
 
 
