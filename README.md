@@ -51,11 +51,12 @@
 ## 作業6
 
 題目：打造自己的對話機器人-進階版。
+
 連結：[HW0401](https://colab.research.google.com/drive/1dDpiweKDvrgliu8LaUYYXhxgGLaUMzoB?usp=sharing)  
 成果：
 - 機器人人設
-  ！[圖片](img/role.png)
+  ![圖片](img/role.png)
 - 對話結果
-  ![圖片](img/response1.png)
+  ![圖片](img/response0401.png)
 
 
