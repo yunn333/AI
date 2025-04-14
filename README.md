@@ -54,7 +54,7 @@
 
 連結：[HW0401](https://colab.research.google.com/drive/1dDpiweKDvrgliu8LaUYYXhxgGLaUMzoB?usp=sharing)  
 成果：
-- 機器人人設
+- 機器人人設與模型
   ![圖片](img/role.png)
 - 對話結果
   ![圖片](img/response0401.png)
