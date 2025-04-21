@@ -60,3 +60,17 @@
   ![圖片](img/response0401.png)
 
 
+## 作業7
+
+題目：實作RAG系統。
+
+連結：[HW0408](https://colab.research.google.com/drive/1SwWooOP3WXtd1zmPnOAYqTnP09w1ZF4s?usp=sharing)  
+成果：
+- 機器人人設與模型
+  ![圖片](img/character2.png)
+- 對話結果
+  ![圖片](img/record1.png)
+  ![圖片](img/record2.png)
+  ![圖片](img/record3.png)
+  ![圖片](img/record4.png)
+  ![圖片](img/record5.png)
