@@ -79,7 +79,7 @@
   ## 作業8
   題目：實作planing AI agent
 
-  連結：[HW0415](https://colab.research.google.com/drive/1ZTfz07KI7rv36unODhtG0Z2uQMCVs-dP?usp=sharing)
+  連結：[HW0415](https://colab.research.google.com/drive/1ZTfz07KI7rv36unODhtG0Z2uQMCVs-dP?usp=sharing)  
   成果：
   - 機器人人設與模型
     ![圖片](img/機器人設定.png)
