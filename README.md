@@ -120,5 +120,23 @@
     ![圖片](img/草.png)
   - 輸入4：
     ![圖片](img/游泳.png)
+
+  ## 作業11
+  題目：AI 圖像生成創作任務：打造你的 Fooocus Workflow !
+
+  成果：
+  - 輸入1：high fashion runway, futuristic techwear style, female model, glowing LED patterns, black and silver clothes, geometric hairstyle, neon lights on stage, high resolution, detailed fabric.
+    ![圖片](img/科技風１.png)
+    ![圖片](img/科技風２.png)
+  - 輸入2：luxury fashion runway, elegant haute couture dresses, sparkling fabric, golden embroidery, chandeliers, graceful walk, crowd watching, glossy floor, model with dramatic makeup, high fashion
+    ![圖片](img/優雅風1.png)
+    ![圖片](img/優雅風2.png)
+  - 輸入3：urban streetwear fashion runway, hip-hop style, graffiti background, bold patterns, oversized hoodie, sneakers, chains, cool attitude, dramatic spotlight, diverse models
+    ![圖片](img/街頭風1.png)
+    ![圖片](img/街頭風2.png)
+  
+
+
+
   
     
