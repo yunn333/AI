@@ -129,11 +129,11 @@
     ![圖片](img/科技風１.png)
     ![圖片](img/科技風２.png)
   - 輸入2：luxury fashion runway, elegant haute couture dresses, sparkling fabric, golden embroidery, chandeliers, graceful walk, crowd watching, glossy floor, model with dramatic makeup, high fashion
-    ![圖片](img/優雅風1.png)
-    ![圖片](img/優雅風2.png)
+    ![圖片](img/優雅風１.png)
+    ![圖片](img/優雅風２.png)
   - 輸入3：urban streetwear fashion runway, hip-hop style, graffiti background, bold patterns, oversized hoodie, sneakers, chains, cool attitude, dramatic spotlight, diverse models
-    ![圖片](img/街頭風1.png)
-    ![圖片](img/街頭風2.png)
+    ![圖片](img/街頭風１.png)
+    ![圖片](img/街頭風２.png)
   
 
 
